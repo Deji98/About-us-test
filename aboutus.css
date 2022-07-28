@@ -237,7 +237,7 @@ button {
 
   .nav-buttons {
     display: flex;
-    gap: 550px;
+    gap: 75px;
     word-spacing: 15px;
     padding-left: 10px;
     padding-top: 5px;
