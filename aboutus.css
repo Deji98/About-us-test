@@ -17,31 +17,19 @@ header {
   color: #ffffff;
 }
 
-.nav {
+.nav-buttons {
   display: flex;
-  flex-direction: row;
+  gap: 900px;
   word-spacing: 15px;
-  padding-left: 5%;
+  padding-left: 10px;
+  padding-top: 5px;
 }
 
 a {
   color: #ffffff;
   text-decoration: none;
   word-spacing: 2px;
-  margin: 1%;
-}
-
-.left {
-  width: 100%;
-  margin-top: 1%;
-  /* padding-left: 2%;
-  margin-top: 1%; */
-}
-
-.right {
-  width: 100%;
-  margin-top: 1%;
-  padding-left: 290px;
+  /* margin: 1%; */
 }
 
 header h2 {
@@ -189,17 +177,16 @@ button {
     margin-top: 50%;
   }
 
-  .left {
-    width: 100%;
-    margin-top: 1%;
-    /* padding-left: 2%;
-    margin-top: 1%; */
+  .nav-buttons {
+    display: flex;
+    gap: 190px;
+    word-spacing: 15px;
+    padding-left: 10px;
+    padding-top: 5px;
   }
 
-  .right {
-    width: 100%;
-    margin-top: 1%;
-    padding-left: 290px;
+  .log-reg {
+    background-color: #b4b1b1;
   }
 
   .team1-2,
@@ -248,17 +235,16 @@ button {
     margin-top: 70%;
   }
 
-  .left {
-    width: 100%;
-    margin-top: 1%;
-    /* padding-left: 2%;
-    margin-top: 1%; */
+  .nav-buttons {
+    display: flex;
+    gap: 550px;
+    word-spacing: 15px;
+    padding-left: 10px;
+    padding-top: 5px;
   }
 
-  .right {
-    width: 100%;
-    margin-top: 1%;
-    padding-left: 290px;
+  .log-reg {
+    background-color: #b4b1b1;
   }
 
   .team1-2,
