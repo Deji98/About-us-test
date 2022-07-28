@@ -179,7 +179,7 @@ button {
 
   .nav-buttons {
     display: flex;
-    gap: 150px;
+    gap: 190px;
     word-spacing: 15px;
     padding-left: 10px;
     padding-top: 5px;
@@ -237,7 +237,7 @@ button {
 
   .nav-buttons {
     display: flex;
-    gap: 35px;
+    gap: 75px;
     word-spacing: 15px;
     padding-left: 10px;
     padding-top: 5px;
