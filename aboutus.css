@@ -19,7 +19,7 @@ header {
 
 .nav-buttons {
   display: flex;
-  gap: 850px;
+  gap: 900px;
   word-spacing: 15px;
   padding-left: 10px;
   padding-top: 5px;
@@ -179,7 +179,7 @@ button {
 
   .nav-buttons {
     display: flex;
-    gap: 190px;
+    gap: 150px;
     word-spacing: 15px;
     padding-left: 10px;
     padding-top: 5px;
@@ -237,7 +237,7 @@ button {
 
   .nav-buttons {
     display: flex;
-    gap: 75px;
+    gap: 65px;
     word-spacing: 15px;
     padding-left: 10px;
     padding-top: 5px;
